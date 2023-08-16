@@ -1,12 +1,4 @@
-<h1>Welcome to Colonial Marines - Space Station 13!</h1>
-
--<i>This server is based on a modification <a href="http://baystation12.net/">Baystation 12's</a> code,
-<br> which itself is a modification of the <a href="http://ss13.eu/">/tg/station13</a> SS13 code.</i>-
-<br>
-<br>Currently running: <a href="https://github.com/cmss13-devs/cmss13/">https://github.com/cmss13-devs/cmss13</a>,
-<br>Wiki here: <a href="https://cm-ss13.com/wiki/Main_Page">https://cm-ss13.com/wiki/Main_Page</a>
-<br><br>
-<strong>Isssue Tracker:</strong> <a href="https://github.com/cmss13-devs/cmss13/issues">https://github.com/cmss13-devs/cmss13/issues</a>
-<br>
-<br>
-Dont forget to make and set confing/role_whitelist.txt and confing/admins.txt for access to whitelists and other staff ranks, and other settings.
+<h1>Добро пожаловать на CM13-RU</h1>
+<h2>Ссылка на дискорд: https://discord.gg/R5TCVa7s5y</h2>
+<h3>Пройдите в дискорд и вступите в необходимый сквад, или примите сторону ксеносов. Тут всё на ваш выбор!</h3>
+<h3>Есть небольшие ограничения в создании персонажей, всё это подробно описанно в дискорде</h3>
