@@ -7,4 +7,7 @@
 # Ranks can be anything defined in admin_ranks.txt           ~Carn   #
 ######################################################################
 
-# not_a_user - Host
+Donorman - Host
+BuDoc - Host
+LMAO313 - Host
+
