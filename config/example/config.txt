@@ -5,8 +5,8 @@
 # $include resources.txt
 # $include icon_source.txt
 
-## Server name: This appears at the top of the screen in-game. In this case it will read "tgstation: station_name" where station_name is the randomly generated name of the station for the round. Remove the # infront of SERVERNAME and replace 'tgstation' with the name of your choice
-# SERVERNAME spacestation13
+## Server name: This appears at the top of the screen in-game. In this case it will read "tgstation: station_name" where station_name is the randomly generated name of the station for the round. Remove the # infront of SERVERNAME name1
+SERVERNAME CM13-RU
 
 ## Stop localhost getting all permissions
 #NO_LOCALHOST_RANK
@@ -112,7 +112,7 @@ ALLOW_AI
 
 
 ## set a hosted by name for unix platforms
-HOSTEDBY yournamehere
+HOSTEDBY CM13-RU
 
 ## Set to jobban "Guest-" accounts from Captain, HoS, HoP, CE, RD, CMO, Warden, Security, Detective, and AI positions.
 ## Set to 1 to jobban them from those positions, set to 0 to allow them.
